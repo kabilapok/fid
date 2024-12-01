@@ -1,0 +1,139 @@
+body {
+    margin: 0 15% 0;
+    background: #B7EBA4 url(images/blackgoose.png) no-repeat center 100px fixed;
+    font-family: Verdana, Arial;
+}
+
+
+#pizza {
+    background-color: #faf2e4;
+}
+
+#pizza legend {
+    font-size: 1.5em;
+}
+
+#pizza input, select {
+    font-size: 1.2em;
+}
+
+#jenskitchen {
+    background-color: #fff;
+   
+}
+
+#jenskitchenrecipeUL {
+    text-align: left;
+    text-transform: none;
+    display: inline-grid;
+}
+
+#jenskitchenrecipeOL {
+    text-transform: none;
+    font-size: 1.4em;
+    display: inline-grid;
+}
+
+h1 {
+    font-family: "Marko One", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: crimson;
+
+
+    text-align: center;
+    border-bottom: 1px solid #57b1dc;
+}
+
+h2 {
+    font-family: "Marko One", serif;
+    text-shadow: .1em .1em .2em gray;
+    font-size: 2.1em;
+}
+
+h3 {
+    font-family: "Marko One", serif;
+    text-shadow: .1em .1em .2em gray;
+    font-size: 1.9em;
+}
+
+dl {
+    font-size: 1.2em;
+}
+
+dt {
+    font-family: "Marko One", Arial;
+}
+
+p {
+    font-size: 1.6em;
+    text-indent: 1em;
+}
+
+ul {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 25px;
+    
+    font-size: 1.6em;
+
+}
+
+ul li {
+    padding: 1rem;
+    display: inline-block;
+
+}
+
+ul li a{
+    color: crimson;
+
+}
+
+ul li img {
+    margin: 0 -5em 0;
+  
+    width: 4em;
+    height: 4em;
+}
+
+ul li img:hover{
+    background-color: #fff;
+    color: #f0f;
+}
+
+ul li img:active{
+    background-color: #f0f;
+    
+}
+
+section {
+    background-color: rgba(179, 168, 0, .3);
+}
+
+
+
+a:hover {
+    
+    background-color: #fff;
+}
+
+a:active {
+    background-color: #fff;
+    color: #f0f;
+}
+
+footer {
+    font-family: Verdana, Arial;
+    text-align: center;
+   
+}
+
+footer img {
+    width: 3.6em;
+    height: 3.6em;
+    margin-left: .5em;
+    margin-right: .5em;
+
+}
